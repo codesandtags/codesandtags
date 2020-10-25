@@ -7,13 +7,13 @@
 <div align="center">
    <!-- Twitter -->
    <a href="https://twitter.com/codesandtags">
-      <img src="https://img.shields.io/twitter/follow/andrebh?label=follow%20me&style=social"
+      <img src="https://img.shields.io/twitter/follow/codesandtags?label=follow%20me&style=social"
          alt="twitter-link" />
   </a>  
    
    <!-- Github -->
    <a href="https://github.com/codesandtags">
-      <img src="https://img.shields.io/github/followers/duarch?label=lunatics&style=social"
+      <img src="https://img.shields.io/github/followers/codesandtags?label=lunatics&style=social"
          alt="Github-follow-icon" />
    </a>
    
