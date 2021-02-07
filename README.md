@@ -1,23 +1,7 @@
-<h1 align="center">E D W I N      T O R R E S</h1>
+# Hi 👏🏼
 
-<div align="center">
-   <!-- Twitter -->
-   <a href="https://twitter.com/codesandtags">
-      <img src="https://img.shields.io/twitter/follow/codesandtags?label=follow%20me&style=social"
-         alt="twitter-link" />
-  </a>  
-   
-   <!-- Github -->
-   <a href="https://github.com/codesandtags">
-      <img src="https://img.shields.io/github/followers/codesandtags?label=codesandtags&style=social"
-         alt="Github-follow-icon" />
-   </a>
-   
-   <!-- DEV profile -->
-   <a href="https://dev.to/codesandtags">
-      <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Edwin Torres's DEV Profile" height="30" width="30">
-   </a>
-</div>
+[![forthebadge](https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=flat&logo=instagram)](https://www.instagram.com/ed_traveler/)
+[![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/edwintorresdeveloper/)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codesandtags&show_icons=true&theme=radical&hide=stars&include_all_commits=true)
@@ -26,7 +10,7 @@
 
 ## 😎 About me
 
-I'm a human passionate by learning new stuffs, help others and I'm in love by the Front end Development, cool visual stuffs, and soon Machine Learning. One of my biggest purpose in life is to create a change in the world by helping people in the things I'm good, that's why I keep continue learning everyday to be a better professional and person.
+I'm Edwin Torres, a human passionate by learning new stuffs, help others and I'm in love by the Front end Development, cool visual stuffs, and soon Machine Learning. One of my biggest purpose in life is to create a change in the world by helping people in the things I'm good, that's why I keep continue learning everyday to be a better professional and person.
 
 
 ## 🤔 What you will find here?
