@@ -1,4 +1,4 @@
-<h1 align="center">E D W I N   T O R R E S</h1>
+<h1 align="center">E D W I N      T O R R E S</h1>
 
 <div align="center">
    <!-- Twitter -->
@@ -18,6 +18,11 @@
       <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Edwin Torres's DEV Profile" height="30" width="30">
    </a>
 </div>
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=codesandtags&show_icons=true&theme=radical&hide=stars&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesandtags&layout=compact)
+
 
 ## 😎 About me
 
