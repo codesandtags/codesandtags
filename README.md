@@ -1,10 +1,10 @@
 # Howdy! Howdy! 👋🏼
 
-[![forthebadge](https://img.shields.io/badge/Youtube-follow%20me-%23E4405F.svg?&style=flat&logo=youtube)](https://www.youtube.com/@codesandtags)
-[![forthebadge](https://img.shields.io/badge/Instagram-follow%20me-%23E4405F.svg?&style=flat&logo=instagram)](https://www.instagram.com/codesandtags/)
-[![forthebadge](https://img.shields.io/badge/Linkedin-follow%20me-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/edwintorresdeveloper/)
-[![forthebadge](https://img.shields.io/badge/TikTok-follow%20me-%23E4405F.svg?&style=flat&logo=tiktok)]([https://www.instagram.com/codesandtags/](https://www.tiktok.com/@codesandtags))
-[![forthebadge](https://img.shields.io/badge/Twitter-follow%20me-%23E4405F.svg?&style=flat&logo=twitter)]([https://www.youtube.com/@codesandtags](https://twitter.com/codesandtags))
+[![forthebadge](https://img.shields.io/badge/Youtube-connect-%23E4405F.svg?&style=flat&logo=youtube)](https://www.youtube.com/@codesandtags)
+[![forthebadge](https://img.shields.io/badge/Instagram-connect-%23E4405F.svg?&style=flat&logo=instagram)](https://www.instagram.com/codesandtags/)
+[![forthebadge](https://img.shields.io/badge/Linkedin-connect-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/edwintorresdeveloper/)
+[![forthebadge](https://img.shields.io/badge/TikTok-connect-%23E4405F.svg?&style=flat&logo=tiktok)]([https://www.instagram.com/codesandtags/](https://www.tiktok.com/@codesandtags))
+[![forthebadge](https://img.shields.io/badge/Twitter-connect-%23E4405F.svg?&style=flat&logo=twitter)]([https://www.youtube.com/@codesandtags](https://twitter.com/codesandtags))
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codesandtags&show_icons=true&theme=radical&hide=stars&include_all_commits=true)
