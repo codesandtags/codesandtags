@@ -13,12 +13,20 @@
 
 ## 😎 About me
 
-I'm Edwin Torres, a human passionate by learning new stuffs, help others and I'm in love by the Front end Development, cool visual stuffs, and soon Machine Learning. One of my biggest purpose in life is to create a change in the world by helping people in the things I'm good, that's why I keep continue learning everyday to be a better professional and person.
+I'm Edwin Torres, a human passionate by learning new stuffs, recently I am an enthusiast about "ultralearning", help others and I'm in love by the Web Development, visual & cool  stuffs, and soon Machine Learning. My biggest purpose in life is, `to generate an impact to the society and world by helping people in the things that I am really good`, that's why I keep continue learning day and night, to be a better person, software engineer and professional.
 
 
 ## 🤔 What you will find here?
 
-Well, mainly here I have lots of Proof of Concepts, projects as result of courses I've done, some documentation and the all ideas what I like to share.
+Hhere I have lots of Proof of Concepts, projects I've done as personal interest or courses, documentation and the all ideas what I like to share with the world.
 
 
 📫 Feel free to contact me at codesandtags@gmail.com
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
