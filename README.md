@@ -13,12 +13,12 @@
 
 ## 😎 About me
 
-I'm Edwin Torres, a human passionate by learning new stuffs, recently I am an enthusiast about "ultralearning", help others and I'm in love by the Web Development, visual & cool  stuffs, and soon Machine Learning. My biggest purpose in life is, `to generate an impact to the society and world by helping people in the things that I am really good`, that's why I keep continue learning day and night, to be a better person, software engineer and professional.
+I'm Edwin Torres, a human and lifelong learner. I am also an enthusiast about "ultralearning" which is about to find the best way to optimize the inputs in our mind. I love help/mentor people and I feel a trully interest by Web Development, Software Architecture and recently the AI wave. My biggest purpose in life is, `to generate an impact to the society and world by helping people in the things that I am really good`.
 
 
 ## 🤔 What you will find here?
 
-Hhere I have lots of Proof of Concepts, projects I've done as personal interest or courses, documentation and the all ideas what I like to share with the world.
+I have lots of side projects, Proof of Concepts, and documentation that I would like to share with the world.
 
 
 📫 Feel free to contact me at codesandtags@gmail.com
@@ -31,7 +31,7 @@ Hhere I have lots of Proof of Concepts, projects I've done as personal interest 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## Learning and fun
+## Learning and having fun with
 
 ### LeetCode ([profile](https://leetcode.com/codesandtags))
 [![Codesandtags's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=codesandtags)](https://github.com/KnlnKS/leetcode-stats)
