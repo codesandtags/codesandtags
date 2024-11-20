@@ -13,8 +13,9 @@
 
 ## 😎 About me
 
-I'm Edwin Torres, a human and lifelong learner. I am also an enthusiast about "ultralearning" which is about to find the best way to optimize the inputs in our mind. I love help/mentor people and I feel a trully interest by Web Development, Software Architecture and recently the AI wave. My biggest purpose in life is, `to generate an impact to the society and world by helping people in the things that I am really good`.
+Hi, I'm Edwin Torres—a passionate lifelong learner and advocate of ultralearning, the art of optimizing how we absorb and apply knowledge. I have a deep enthusiasm for Web Development, Software Architecture, and the exciting advancements in Artificial Intelligence.
 
+I thrive on mentoring and helping others grow, combining my skills and experience to make a meaningful impact. My ultimate goal is to contribute to society and the world by empowering people through the things I do best.
 
 ## 🤔 What you will find here?
 
