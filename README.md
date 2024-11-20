@@ -13,16 +13,20 @@
 
 ## 😎 About me
 
-Hi, I'm Edwin Torres—a passionate lifelong learner and advocate of ultralearning, the art of optimizing how we absorb and apply knowledge. I have a deep enthusiasm for Web Development, Software Architecture, and the exciting advancements in Artificial Intelligence.
+Hi, I'm Edwin Torres—a lifelong learner, software engineer, and advocate for **ultralearning**. My expertise spans **Web Development**, **Software Architecture**, and right now learning about the growing field of **Artificial Intelligence** and **Machine Learning**.
 
-I thrive on mentoring and helping others grow, combining my skills and experience to make a meaningful impact. My ultimate goal is to contribute to society and the world by empowering people through the things I do best.
+🔧 **Key Skills:** JavaScript, TypeScript, React.js, Next.js, Node.js, Docker, Google Cloud Platform (GCP)
+
+🌟 **Achievements:**  
+- 10+ years of experience impacting 200,000+ users worldwide  
+- Creator of [Dark Mode Enabler](https://codesandtags.io/dark-mode-extension), with 1,400+ installations and 350 weekly users  
+- YouTube educator on frontend fundamentals at [Codes and Tags](https://www.youtube.com/@codesandtags)  
+
+📫 Feel free to explore my work, contribute to projects, or connect with me!
 
 ## 🤔 What you will find here?
 
 I have lots of side projects, Proof of Concepts, and documentation that I would like to share with the world.
-
-
-📫 Feel free to contact me at codesandtags@gmail.com
 
 **languages and tools:**  
 
