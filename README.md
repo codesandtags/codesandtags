@@ -19,7 +19,7 @@ Hi, I'm Edwin Torres—a lifelong learner, software engineer, and advocate for *
 
 🌟 **Achievements:**  
 - 10+ years of experience impacting 200,000+ users worldwide  
-- Creator of [Dark Mode Enabler](https://codesandtags.io/dark-mode-extension), with 1,400+ installations and 350 weekly users  
+- Creator of [Dark Mode Enabler]([https://codesandtags.io/dark-mode-extension](https://chromewebstore.google.com/detail/dark-mode-enabler/jpgjmidladomebfdpanhbeodbmkibdcp)), with 3,000+ installations and ~410 weekly users  
 - YouTube educator on frontend fundamentals at [Codes and Tags](https://www.youtube.com/@codesandtags)  
 
 📫 Feel free to explore my work, contribute to projects, or connect with me!
