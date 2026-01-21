@@ -26,6 +26,7 @@ I define myself as a **T-Shaped Engineer**: Deep expertise in Modern Frontend (R
 - **System Design:** Deep diving into distributed patterns (Circuit Breakers, Event Sourcing, CQRS).
 - **Go Patterns:** Implementing Hexagonal Architecture (Ports & Adapters) in financial CLI tools.
 - **Frontend at Scale:** Optimizing Micro-frontends and Design Systems for enterprise applications.
+- **LLM Engineering:** researching how to leverage Generative AI to automate complex software tasks.
 
 ---
 
