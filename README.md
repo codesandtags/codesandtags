@@ -1,37 +1,46 @@
-# Howdy! Howdy! 👋🏼
+### Hi there! I'm Edwin Torres 👋
 
-[![forthebadge](https://img.shields.io/badge/Youtube-connect-%23E4405F.svg?&style=flat&logo=youtube)](https://www.youtube.com/@codesandtags)
-[![forthebadge](https://img.shields.io/badge/Instagram-connect-%23E4405F.svg?&style=flat&logo=instagram)](https://www.instagram.com/codesandtags/)
-[![forthebadge](https://img.shields.io/badge/Linkedin-connect-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/edwintorresdeveloper/)
-[![forthebadge](https://img.shields.io/badge/TikTok-connect-%23E4405F.svg?&style=flat&logo=tiktok)]([https://www.instagram.com/codesandtags/](https://www.tiktok.com/@codesandtags))
-[![forthebadge](https://img.shields.io/badge/Twitter-connect-%23E4405F.svg?&style=flat&logo=twitter)]([https://www.youtube.com/@codesandtags](https://twitter.com/codesandtags))
+I am a **Lead Software Engineer** based in Toronto, specializing in building high-performance applications at the intersection of **Product** and **System Architecture**.
 
+I define myself as a **T-Shaped Engineer**: Deep expertise in Modern Frontend (React ecosystem), with strong capabilities in Backend Distributed Systems (Go/Node.js). My focus is on writing code that is not only performant but also maintainable and architecturally sound.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=codesandtags&show_icons=true&theme=radical&hide=stars&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesandtags&layout=compact)
+---
 
+### 🛠 Tech Stack & Arsenal
 
-## 😎 About me
+**Core Stack:**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-Hi, I'm Edwin Torres—a lifelong learner, software engineer, and advocate for **ultralearning**. My expertise spans **Web Development**, **Software Architecture**, and right now learning about the growing field of **Artificial Intelligence** and **Machine Learning**.
+**Infrastructure & Tools:**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png"></code>
 
-🔧 **Key Skills:** JavaScript, TypeScript, React.js, Next.js, Node.js, Docker, Google Cloud Platform (GCP)
+---
 
-🌟 **Achievements:**  
-- 10+ years of experience impacting 200,000+ users worldwide  
-- Creator of [Dark Mode Enabler]([https://codesandtags.io/dark-mode-extension](https://chromewebstore.google.com/detail/dark-mode-enabler/jpgjmidladomebfdpanhbeodbmkibdcp)), with 3,000+ installations and ~410 weekly users  
-- YouTube educator on frontend fundamentals at [Codes and Tags](https://www.youtube.com/@codesandtags)  
+### 🔭 Current Focus & Learning
 
-📫 Feel free to explore my work, contribute to projects, or connect with me!
+- **System Design:** Deep diving into distributed patterns (Circuit Breakers, Event Sourcing, CQRS).
+- **Go Patterns:** Implementing Hexagonal Architecture (Ports & Adapters) in financial CLI tools.
+- **Frontend at Scale:** Optimizing Micro-frontends and Design Systems for enterprise applications.
 
-## 🤔 What you will find here?
+---
 
-I have lots of side projects, Proof of Concepts, and documentation that I would like to share with the world.
+### 📈 GitHub Stats
 
-**languages and tools:**  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=codesandtags&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Edwin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesandtags&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+---
+
+### 🎥 Content Creation
+
+I document my engineering journey and share knowledge on **System Design** and **Web Development** to help others bridge the gap between Senior and Staff levels.
+
+- 📺 **YouTube:** [Codes and Tags](https://youtube.com/@codesandtags)
+- 💼 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/etcode)
